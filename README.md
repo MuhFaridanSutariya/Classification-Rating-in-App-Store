@@ -2,10 +2,10 @@
 
 ## About This Project
 this is a project that performs exploratory data analysis, data cleaning to data modeling. To get insight I use visualization techniques so that it can be easily understood by humans. 
-<h4>An example of the insight I got after doing the visualization technique is that users prefer to download free applications rather than paid applications : </h4>
+<h3>An example of the insight I got after doing the visualization technique is that users prefer to download free applications rather than paid applications : </h3>
 <img src="newplot.png" alt="">
 
-<h4>average rating of free users and paid users :</h4> 
+<h3>Average rating of free users and paid users :</h3> 
 <img src="newplot22.png" alt="">
 
 and I also divide users into several groups ranging from people aged 10 years to adults in order to get detailed insight into some users. The purpose of this project is to find out and make predictions using machine learning about the characteristics of people who rate an application.
