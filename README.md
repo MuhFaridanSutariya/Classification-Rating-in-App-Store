@@ -2,7 +2,7 @@
 
 ## About This Project
 this is a project that performs exploratory data analysis, data cleaning to data modeling. To get insight I use visualization techniques so that it can be easily understood by humans. 
-<h5>An example of the insight I got after doing the visualization technique is that users prefer to download free applications rather than paid applications : </h5>
+<h3>An example of the insight I got after doing the visualization technique is that users prefer to download free applications rather than paid applications : </h3>
 <img src="newplot.png" alt="">
 
 average rating of free users and paid users : 
