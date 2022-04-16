@@ -8,7 +8,10 @@ this is a project that performs exploratory data analysis, data cleaning to data
 <h3>Average rating of free users and paid users :</h3> 
 <img src="newplot22.png" alt="">
 
-and I also divide users into several groups ranging from people aged 10 years to adults in order to get detailed insight into some users. The purpose of this project is to find out and make predictions using machine learning about the characteristics of people who rate an application.
+<h3>and I also divide users into several groups ranging from people aged 10 years to adults in order to get detailed insight into some users. </h3>
+<img src="newplot23.png" alt="">
+
+The purpose of this project is to find out and make predictions using machine learning about the characteristics of people who rate an application.
 
 
 ## Technology and dataset Used
